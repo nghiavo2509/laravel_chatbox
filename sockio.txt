@@ -1,0 +1,9 @@
+--VỀ SOCKIO
+
+
+./ io.emit()
+-> Use for transfer data
+
+./ io.on('connection',(socket)=>{
+})
+-> run When there is a connection notification from the User
